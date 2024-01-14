@@ -1,0 +1,1 @@
+University coding poject from my short time in Engineering. Simple Indiana Jones type of game, where you look to collect treasure (+ symbol), while plugging holes (* symbol) by pushing boulders (O symbol). As the player (X symbol), you try to collect all the treasures before escaping through the gap in the wall.
